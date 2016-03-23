@@ -2,4 +2,4 @@
 This was one of my homeworks for the Information Visualization and Visual Analytics course last semester.
 I hope that someone might find it useful when learning about force-based drawing algorithms.
 Here's a quick demo:
-![Alt text](demo.mp4)
+![Alt text](demo.gif)
